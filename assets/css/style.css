@@ -53,9 +53,10 @@ footer.page-footer {
 .myimage {
     width: auto;
     height: auto;
-    margin-left: 395px;
+    margin-left: 375px;
     opacity: 0.8;
     float: left;
+    padding-bottom: 30px;
     
 
 }
